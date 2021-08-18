@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+	<project path="device/samsung/universal7904-common" name="HariAOSP/android_device_samsung_universal7904-common" remote="github" revision="lineage-18.1"/>
+	<project path="device/samsung/m20lte" name="HariAOSP/android_device_samsung_m20lte" remote="github" revision="lineage-18.1"/>
+	<project path="device/samsung_slsi/sepolicy" name="LineageOS/android_device_samsung_slsi_sepolicy" remote="github" revision="lineage-18.1"/>
+	<project path="kernel/samsung/universal7904" name="LineageOS/android_kernel_samsung_universal7904" remote="github" revision="lineage-18.1"/>
+	<project path="vendor/samsung/" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="lineage-18.1"/>
+	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-18.1"/>
+	<project path="hardware/samsung/nfc" name="LineageOS/android_hardware_samsung_nfc" remote="github" revision="lineage-18.1"/>
+	<project path="hardware/samsung_slsi/libbt" name="LineageOS/android_hardware_samsung_slsi_libbt" remote="github" revision="lineage-18.1"/>
+	<project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" remote="github" revision="lineage-18.1"/>
+	<project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" remote="github" revision="lineage-18.1"/>
+</manifest>
